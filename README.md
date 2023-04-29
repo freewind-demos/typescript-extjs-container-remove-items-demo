@@ -1,5 +1,7 @@
-TypeScript ExtJS Panel Items Demo
+TypeScript ExtJS Container Remove Items Demo
 ====================
+
+`container.remove(targetComponent)`
 
 ```
 npm install
